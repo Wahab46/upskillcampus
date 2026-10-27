@@ -1,4 +1,4 @@
-# FreshBasket — Redesigned Grocery Delivery App
+# FreshBasket — Grocery Delivery App
 
 A responsive React + Vite grocery storefront with product search, category filters, add-to-cart, quantity controls, and live cart totals.
 
